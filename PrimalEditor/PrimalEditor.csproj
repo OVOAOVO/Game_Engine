@@ -9,6 +9,6 @@
   </PropertyGroup>
 
 	<ItemGroup>
-		<Folder Include="DllWrappers"/>
+		<Folder Include="DllWrappers" />
 	</ItemGroup>
 </Project>
