@@ -12,6 +12,6 @@ namespace primal::transform {
 	};
 
 
-	component create_transform(const init_info& info, game_entity::entity entity);
-	void remove_transform(component c);
+	component create(init_info info, game_entity::entity entity);
+	void remove(component c);
 }
