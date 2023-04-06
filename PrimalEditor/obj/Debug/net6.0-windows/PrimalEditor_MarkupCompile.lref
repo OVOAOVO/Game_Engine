@@ -10,4 +10,6 @@ FD:\MysteriousEngine\Primal\PrimalEditor\GameProject\ProjectBrowserDialog.xaml;;
 FD:\MysteriousEngine\Primal\PrimalEditor\MainWindow.xaml;;
 FD:\MysteriousEngine\Primal\PrimalEditor\Utilities\LoggerView.xaml;;
 FD:\MysteriousEngine\Primal\PrimalEditor\Utilities\UndoRedoView.xaml;;
+FD:\MysteriousEngine\Primal\PrimalEditor\Editors\WorldEditor\ComponentView.xaml;;
+FD:\MysteriousEngine\Primal\PrimalEditor\Editors\WorldEditor\TransformView.xaml;;
 

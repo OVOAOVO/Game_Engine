@@ -40,3 +40,7 @@ D:\MysteriousEngine\Primal\PrimalEditor\obj\Debug\net6.0-windows\App.baml
 D:\MysteriousEngine\Primal\PrimalEditor\obj\Debug\net6.0-windows\Utilities\LoggerView.g.cs
 D:\MysteriousEngine\Primal\PrimalEditor\obj\Debug\net6.0-windows\Utilities\LoggerView.baml
 D:\MysteriousEngine\Primal\PrimalEditor\obj\Debug\net6.0-windows\Dictionaries\EditorColors.baml
+D:\MysteriousEngine\Primal\PrimalEditor\obj\Debug\net6.0-windows\Editors\WorldEditor\ComponentView.g.cs
+D:\MysteriousEngine\Primal\PrimalEditor\obj\Debug\net6.0-windows\Editors\WorldEditor\TransformView.g.cs
+D:\MysteriousEngine\Primal\PrimalEditor\obj\Debug\net6.0-windows\Editors\WorldEditor\ComponentView.baml
+D:\MysteriousEngine\Primal\PrimalEditor\obj\Debug\net6.0-windows\Editors\WorldEditor\TransformView.baml
