@@ -26,7 +26,7 @@ namespace PrimalEditor
             Owner = Application.Current.MainWindow;
         }
 
-        private void OnOk_Button_Click(object sender, RoutedEventArgs e)
+        private void OnOk_Button_Click(object sender, RoutedEventArgs e)//
         {
             var path = pathTextBox.Text.Trim();
             messageTextBlock.Text = string.Empty;
