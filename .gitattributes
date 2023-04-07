@@ -1,0 +1,7 @@
+EngineDLL filter=lfs diff=lfs merge=lfs -text
+EngineTest filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+Primal.sln filter=lfs diff=lfs merge=lfs -text
+PrimalEditor filter=lfs diff=lfs merge=lfs -text
+x64 filter=lfs diff=lfs merge=lfs -text
+Engine filter=lfs diff=lfs merge=lfs -text
