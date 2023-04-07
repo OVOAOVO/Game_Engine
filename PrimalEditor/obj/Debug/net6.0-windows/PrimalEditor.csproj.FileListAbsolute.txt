@@ -44,3 +44,5 @@ D:\MysteriousEngine\Primal\PrimalEditor\obj\Debug\net6.0-windows\Editors\WorldEd
 D:\MysteriousEngine\Primal\PrimalEditor\obj\Debug\net6.0-windows\Editors\WorldEditor\TransformView.g.cs
 D:\MysteriousEngine\Primal\PrimalEditor\obj\Debug\net6.0-windows\Editors\WorldEditor\ComponentView.baml
 D:\MysteriousEngine\Primal\PrimalEditor\obj\Debug\net6.0-windows\Editors\WorldEditor\TransformView.baml
+D:\MysteriousEngine\Primal\PrimalEditor\obj\Debug\net6.0-windows\EnginePathDialog.g.cs
+D:\MysteriousEngine\Primal\PrimalEditor\obj\Debug\net6.0-windows\EnginePathDialog.baml
