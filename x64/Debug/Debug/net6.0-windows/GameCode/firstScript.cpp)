@@ -1,0 +1,16 @@
+	#include"firstScript.h"
+
+namespace NewProject01 {
+
+REGISTER_SCRIPT(firstScript);
+void firstScript::begin_play()
+{
+
+}
+
+void firstScript::update(float dt)
+{
+
+}
+
+} // namespace NewProject01

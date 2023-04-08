@@ -46,3 +46,8 @@ D:\MysteriousEngine\Primal\PrimalEditor\obj\Debug\net6.0-windows\Editors\WorldEd
 D:\MysteriousEngine\Primal\PrimalEditor\obj\Debug\net6.0-windows\Editors\WorldEditor\TransformView.baml
 D:\MysteriousEngine\Primal\PrimalEditor\obj\Debug\net6.0-windows\EnginePathDialog.g.cs
 D:\MysteriousEngine\Primal\PrimalEditor\obj\Debug\net6.0-windows\EnginePathDialog.baml
+D:\MysteriousEngine\Primal\PrimalEditor\obj\Debug\net6.0-windows\Interop.EnvDTE80.dll
+D:\MysteriousEngine\Primal\PrimalEditor\obj\Debug\net6.0-windows\Interop.EnvDTE.dll
+D:\MysteriousEngine\Primal\PrimalEditor\obj\Debug\net6.0-windows\PrimalEditor.csproj.ResolveComReference.cache
+D:\MysteriousEngine\Primal\PrimalEditor\obj\Debug\net6.0-windows\GameDev\NewScriptDialog.g.cs
+D:\MysteriousEngine\Primal\PrimalEditor\obj\Debug\net6.0-windows\GameDev\NewScriptDialog.baml
